@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Amatic SC";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./AmaticSC-Regular.woff2) format("woff2"),
+    url(./AmaticSC-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Amatic SC";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./AmaticSC-Bold.woff2) format("woff2"),
+    url(./AmaticSC-Bold.woff) format("woff");
+}
